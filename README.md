@@ -2,6 +2,9 @@
 
 A from-scratch recreation of Pinterest's masonry layout engine in React + TypeScript.
 
+<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/207d96f8-90f9-4a69-9fd8-b3c72d99fd56" />
+
+
 ## What it does
 
 Renders a responsive, variable-height masonry grid — the same layout algorithm Pinterest uses. Cards are placed into columns by always filling the shortest one, producing a compact, gap-free layout regardless of card height.
